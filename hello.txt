@@ -2,3 +2,4 @@ aaa
 bbb
 ccc--hotfix 1
 ddd--master 2
+eee--hotfix 2
